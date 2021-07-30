@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1627625585 source:/home/mohammad/Desktop/C_programing-git/Class_resources/class_5/take_something_return_something/main.c
+	<stdio.h>
+	<stdlib.h>
+
